@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC31F002-68E5-449D-AE53-11CF7B31D357}|service\\service.csproj|C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC31F002-68E5-449D-AE53-11CF7B31D357}|service\\service.csproj|solutionrelative:service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC31F002-68E5-449D-AE53-11CF7B31D357}|service\\service.csproj|C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC31F002-68E5-449D-AE53-11CF7B31D357}|service\\service.csproj|solutionrelative:service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC31F002-68E5-449D-AE53-11CF7B31D357}|service\\service.csproj|c:\\users\\cmtzirin\\source\\repos\\insyss\\service\\clases\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC31F002-68E5-449D-AE53-11CF7B31D357}|service\\service.csproj|solutionrelative:service\\clases\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC31F002-68E5-449D-AE53-11CF7B31D357}|service\\service.csproj|C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\clases\\logevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC31F002-68E5-449D-AE53-11CF7B31D357}|service\\service.csproj|solutionrelative:service\\clases\\logevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogEvent.cs",
+              "DocumentMoniker": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\Clases\\LogEvent.cs",
+              "RelativeDocumentMoniker": "service\\Clases\\LogEvent.cs",
+              "ToolTip": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\Clases\\LogEvent.cs",
+              "RelativeToolTip": "service\\Clases\\LogEvent.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:58:07.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\Clases\\Utilidades.cs",
+              "RelativeDocumentMoniker": "service\\Clases\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\Clases\\Utilidades.cs",
+              "RelativeToolTip": "service\\Clases\\Utilidades.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:56:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\ApiService.cs",
+              "RelativeDocumentMoniker": "service\\ApiService.cs",
+              "ToolTip": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\ApiService.cs",
+              "RelativeToolTip": "service\\ApiService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:45:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\Program.cs",
+              "RelativeDocumentMoniker": "service\\Program.cs",
+              "ToolTip": "C:\\Users\\cmtzirin\\source\\repos\\insyss\\service\\Program.cs",
+              "RelativeToolTip": "service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:42:23.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
