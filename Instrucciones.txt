@@ -1,0 +1,4 @@
+1. Después de clonar el repositorio, validar la versión de .NET instalada el proyecto usa versión 8.0 pero puede ser cambiada. 
+2. Crear una carpeta en el disco local C:\LogApi y darle permisos para escritura a todos los usuarios. 
+3. Ejecutar 
+4. Visualizar Log creado en la carpeta C:\LogApi
